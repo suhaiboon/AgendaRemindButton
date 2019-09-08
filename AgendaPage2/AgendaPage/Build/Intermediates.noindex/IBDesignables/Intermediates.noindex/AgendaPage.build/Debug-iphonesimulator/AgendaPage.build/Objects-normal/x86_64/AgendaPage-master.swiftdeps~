@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "21f9960ed027b11404845a4e32016421"
+build_time: [1567305787, 446771000]
+inputs:
+  "/Users/oussamaajerd/Documents/GitHub/ReconnectConference-iOS-App-/AgendaPage2/AgendaPage/AgendaPage/Controller/csv.swift": [1567155838, 0]
+  "/Users/oussamaajerd/Documents/GitHub/ReconnectConference-iOS-App-/AgendaPage2/AgendaPage/AgendaPage/Controller/AgnedaTableViewController.swift": [1567305710, 224842734]
+  "/Users/oussamaajerd/Documents/GitHub/ReconnectConference-iOS-App-/AgendaPage2/AgendaPage/AgendaPage/DataModel/Agenda.swift": [1567155838, 0]
+  "/Users/oussamaajerd/Documents/GitHub/ReconnectConference-iOS-App-/AgendaPage2/AgendaPage/AgendaPage/AppDelegate.swift": [1567155838, 0]
+  "/Users/oussamaajerd/Documents/GitHub/ReconnectConference-iOS-App-/AgendaPage2/AgendaPage/AgendaPage/Views/AgendaTableViewCell.swift": !private [1567305787, 368873123]
+  "/Users/oussamaajerd/Documents/GitHub/ReconnectConference-iOS-App-/AgendaPage2/AgendaPage/AgendaPage/Extension/CustomCorners.swift": [1567155838, 0]
