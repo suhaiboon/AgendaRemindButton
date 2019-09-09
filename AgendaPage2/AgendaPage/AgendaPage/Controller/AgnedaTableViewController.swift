@@ -19,6 +19,7 @@ class AgnedaTableViewController: UIViewController
     
     @IBOutlet weak var tableview: UITableView!
     
+    var userDefaults = UserDefaults.standard
 
     
     override func viewDidLoad() {
@@ -109,7 +110,9 @@ extension AgnedaTableViewController : UITableViewDataSource, UITableViewDelegate
         return cell
     }
     
-    
+//    func saveReminderSettings () {
+//        userDefaults.set(bell, forKey: <#T##String#>)
+//    }
     
     
 //    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {

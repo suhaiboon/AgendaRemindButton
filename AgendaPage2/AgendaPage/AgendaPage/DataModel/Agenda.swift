@@ -29,9 +29,15 @@ class Agenda{
     }
     
     
-    var isSelected: Bool = false
+    var hasReminder: Bool {
+        set {
+            UserDefaults.standard.set(newValue, forKey: self.sessionTitle)
+        }
+        get {
+            return UserDefaults.standard.bool(forKey: self.sessionTitle)
+        }
     
-    
+    }
     
 }
 
